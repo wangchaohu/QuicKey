@@ -1,2 +1,2 @@
-# projectSet
-个人项目后端集合，使用springboot+jpa+vue
+# quickey
+快捷键查询，使用springboot+jpa+vue,正在开发中
